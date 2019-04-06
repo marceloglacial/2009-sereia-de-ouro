@@ -9,8 +9,7 @@
 
 ## Live Demo
 
-https://glacial.gitlab.io/2009-sereia-de-ouro/
-
+https://marceloglacial.github.io/2009-sereia-de-ouro/front-end/
 
 
 ## Screnshot
